@@ -1,0 +1,17 @@
+h1 {
+	color: rgb(0, 128, 0);
+	
+}
+h2 {
+	color: blue;
+}
+h3{
+	color: red;
+}
+p{
+	color: orange;
+}
+td{
+	width: 300px;
+	height: 100px;
+}
